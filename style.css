@@ -1,6 +1,4 @@
-h1, h2 {
-  font-family: Lato;
-}
+
 
 #myNavbar {
   float:right;
@@ -29,3 +27,16 @@ h1, h2 {
 .navbar-brand:hover {
   color: #fff;
 }
+.jumbotron {
+  background: url(https://c.wallhere.com/photos/8b/22/PC_gaming_Lenovo_computer_hardware_technology_headphones_keyboards_laptop-84526.jpg!d) no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    height: 50vh;
+  }
+
+  .banner-h1{
+    color: #fff;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', script 
+    }
