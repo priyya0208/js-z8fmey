@@ -36,7 +36,27 @@
     height: 50vh;
   }
 
-  .banner-h1{
-    color: #fff;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', script 
-    }
+   .banner-h1 { 
+     font-family:  "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; 
+     font-size: 45px; 
+     font-style: italic; 
+     color:#fff;
+   }
+   .banner-h3 {
+     font-family:  "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; 
+     font-size: 45px; 
+     font-style: italic; 
+     color:#fff
+   }
+
+   .banner-h2 {
+     font-family:  "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; 
+     font-size: 45px; 
+     font-style: italic; 
+     color:#fff
+   }
+   .rounded-circle {
+    border-radius: 50%;
+    width:80%;
+    height: 220px;
+}
