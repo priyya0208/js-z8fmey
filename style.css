@@ -19,4 +19,13 @@ h1, h2 {
 
 .nav li a:hover{
   color: #bd1f50;
+  border: 2px solid #bd1f50;
+  border-radius: 10px;
+}
+.navbar-brand {
+  color: #fff;
+  padding-left:50px;
+}
+.navbar-brand:hover {
+  color: #fff;
 }
