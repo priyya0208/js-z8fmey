@@ -1,0 +1,22 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+#myNavbar {
+  float:right;
+}
+.navbar {
+  background-color: #bd1f50;
+  height: 60px;
+  list-style: none;
+  border-bottom: 1px solid #bd1f50;
+  border-top: 1px solid #bd1f50;
+  padding-top:4px;
+}
+.nav li a{
+  color: #fff;
+}
+
+.nav li a:hover{
+  color: #bd1f50;
+}
